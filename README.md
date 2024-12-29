@@ -6,6 +6,7 @@ This is the basic project layout.  It sets up the boilerplate for adding tools t
 
 ```bash
 pip install -r requirements.txt
+pip install -r dev-requirements.txt
 ```
 
 # Asking questions

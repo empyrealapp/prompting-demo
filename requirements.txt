@@ -1,4 +1,4 @@
 click
-emp-agents
+emp-agents>=0.1.4
 httpx
 tweepy
